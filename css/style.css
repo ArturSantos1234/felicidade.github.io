@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+button {
+    font-size: 19px;
+    margin: 30px;
+}
+
+
+
+#divDeMsg {
+    border: solid 2px black;
+    width: 500px;
+    text-align: center;
+}
+
+.msg {
+    display: block;
+    margin-top: 5px;
+}
+
+.bttTest {
+    border-radius: 20px;
+    wit
+    border: solid 2px black;
+}
+
+.msgOver {
+    color: green;
+    display: block;
+}
+
+.msgOut {
+    color: red;
+    display: block;
+}
